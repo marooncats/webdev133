@@ -26,7 +26,7 @@ define( 'DB_NAME', 'leslied1' );
 define( 'DB_USER', 'leslied1' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'leslied1#TheSTEMGrad2022!!' );
+define( 'DB_PASSWORD', 'leslied1#1368536' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
